@@ -62,7 +62,7 @@ local_users:
 - name: arista
   privilege: 15
   role: network-admin
-  sha512_password: $6$arista$/OoKLu5c9Wts7DcPmSh16Z3g1hCuTTp.SE06pwShigxWI9jDqCgk2yWIo59qZUHvAwjV3qyH8ry475sFqAaAy.
+  sha512_password: $6$arista$RArU/OEQzi81GpjRc8tQz6nDYbOoQGCq02vnj4AeNZrW6wSGSN6dyDw1/DzCDi5HvsTWHXFmASMPSy7iJED.T/
   ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCQWiMQzNqkQC9PCUvUlCZHIvYN2VGPzfnz4IG8RhZWGqfw//fobV3HxbrWMX2qhF3m028qh3kCIhy5iWue5DZlClzC1sQVBRNbgMIUqWNFcR2Vpy5WPq6tKV6OMJoQndiRruH2sKACs0DE1F720QraIPd77KrMZTAkCnQT/6LCZMBpaDAi3jKYt0OytzQCP3Zbh1iRBtjoNprXrvHH4fRQiKTQp8ij1gMmk4pTFGEa1szKuMjP2SS3+6UOL2/pRTsyyXSRxpK0vhzTD2Jo2HHBUtYekJNxSDChzEbYuF+YkvRaLa1K3geEH01nTQ41CWXX8BDawYgDnTmy5No2Wcuz
     arista@automationws-13-d11569ec-eos
 loopback_interfaces:
